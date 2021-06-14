@@ -66,7 +66,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 1. clone repository (ketik di git bash: "git clone [link repo]")
 2. copy file .env.example dan rename menjadi .env
 3. Buka project di code editor, tampilkan terminal dan ketik command "composer install"
-4. ketik command "php artisan key:generate"
+4. ketik command php artisan key:generate
 5. ketik command php artisan jwt:secret
 6. ketik command php artisan migrate
 7. ketik command php artisan db:seed
