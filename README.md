@@ -60,3 +60,14 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## How To Run
+
+1. clone repository (ketik di git bash: "git clone [link repo]")
+2. copy file .env.example dan rename menjadi .env
+3. Buka project di code editor, tampilkan terminal dan ketik command "composer install"
+4. ketik command "php artisan key:generate"
+5. ketik command php artisan jwt:secret
+6. ketik command php artisan migrate
+7. ketik command php artisan db:seed
+8. ketik command "php artisan serve" atau "php -S localhost:8000 -t public" untuk run server
