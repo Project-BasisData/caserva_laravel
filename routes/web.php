@@ -8,6 +8,7 @@ use App\Http\Controllers\ContactController;
 use App\Http\Controllers\LoginController;
 use App\Http\Controllers\RegisterController;
 use App\Http\Controllers\ReservasiController;
+use App\Http\Controllers\ReviewController;
 
 /*
 |--------------------------------------------------------------------------
@@ -29,6 +30,7 @@ Route::get('/login', [LoginController::class, 'login']);
 Route::get('/register', [RegisterController::class, 'register']);
 Route::get('/reservasi', [ReservasiController::class, 'reservasi']);
 Route::get('/reservasi-berhasil', [ReservasiController::class, 'berhasil']);
+Route::get('/review', [ReviewController::class, 'review']);
 
 // Route::get('/', function () {
 //     return view('welcome');
