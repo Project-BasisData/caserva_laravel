@@ -92,4 +92,15 @@ class CafeController extends Controller
     {
         return view('contact');
     }
+
+    public function reservasi()
+    {
+        return view('reservasi');
+    }
+
+
+    public function berhasil()
+    {
+        return view('berhasil');
+    }
 }

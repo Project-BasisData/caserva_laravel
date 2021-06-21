@@ -26,10 +26,7 @@ Route::get('/cafe', [CafeController::class, 'index']);
 Route::get('/contact', [CafeController::class, 'contact']);
 Route::get('/login', [LoginController::class, 'login']);
 Route::get('/register', [RegisterController::class, 'register']);
-Route::get('/reservasi', [ReservasiController::class, 'reservasi']);
-Route::get('/reservasi-berhasil', [ReservasiController::class, 'berhasil']);
+Route::get('/reservasi', [CafeController::class, 'reservasi']);
+Route::get('/reservasi-berhasil', [CafeController::class, 'berhasil']);
 Route::get('/review', [ReviewController::class, 'review']);
 
-// Route::get('/', function () {
-//     return view('welcome');
-// });
