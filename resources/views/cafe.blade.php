@@ -190,7 +190,15 @@
         <div class="row no-gutters">
             <div class="card-body">
                 <div class="rating">
-                    <h6>Nama Reviewer</h6>
+                    
+                    <div style="display: flex;">
+                    <h6 class="col-lg-6">Nama Reviewer</h6>
+                    <div class="col-lg-6" style= "text-align: end;">
+                    <button type="button" class="btn btn-success">Edit</button>
+                    <button type="button" class="btn btn-danger">Delete</button>
+                    </div>
+
+                    </div>
                     <span class="fa fa-star checked"></span>
                     <span class="fa fa-star checked"></span>
                     <span class="fa fa-star checked"></span>
@@ -202,7 +210,14 @@
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.</p>
                 <p></p>
                 <div class="rating">
-                    <h6>Nama Reviewer</h6>
+                    <div style="display: flex;">
+                    <h6 class="col-lg-6">Nama Reviewer</h6>
+                    <div class="col-lg-6" style= "text-align: end;">
+                    <button type="button" class="btn btn-success">Edit</button>
+                    <button type="button" class="btn btn-danger">Delete</button>
+                    </div>
+
+                    </div>
                     <span class="fa fa-star checked"></span>
                     <span class="fa fa-star checked"></span>
                     <span class="fa fa-star checked"></span>
@@ -214,7 +229,14 @@
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.</p>
                 <p></p>
                 <div class="rating">
-                    <h6>Nama Reviewer</h6>
+                    <div style="display: flex;">
+                    <h6 class="col-lg-6">Nama Reviewer</h6>
+                    <div class="col-lg-6" style= "text-align: end;">
+                    <button type="button" class="btn btn-success">Edit</button>
+                    <button type="button" class="btn btn-danger">Delete</button>
+                    </div>
+
+                    </div>
                     <span class="fa fa-star checked"></span>
                     <span class="fa fa-star checked"></span>
                     <span class="fa fa-star checked"></span>
@@ -239,10 +261,6 @@
       </a>
       <div class="collapse" id="web_dev">
         <form style="margin: 2% 20%;">
-  <div class="form-group">
-    <label for="exampleFormControlInput1">Nama</label>
-    <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="nama">
-  </div>
   <div class="form-group">
     <label for="exampleFormControlSelect1">RATING</label>
     <select class="form-control" id="exampleFormControlSelect1">
