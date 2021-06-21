@@ -2,9 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\IndexController;
-use App\Http\Controllers\AboutController;
 use App\Http\Controllers\CafeController;
-use App\Http\Controllers\ContactController;
 use App\Http\Controllers\LoginController;
 use App\Http\Controllers\RegisterController;
 use App\Http\Controllers\ReservasiController;
@@ -23,9 +21,9 @@ use App\Http\Controllers\ReviewController;
 
 
 Route::get('/', [IndexController::class, 'index']);
-Route::get('/about', [AboutController::class, 'about']);
+Route::get('/about', [CafeController::class, 'about']);
 Route::get('/cafe', [CafeController::class, 'index']);
-Route::get('/contact', [ContactController::class, 'contact']);
+Route::get('/contact', [CafeController::class, 'contact']);
 Route::get('/login', [LoginController::class, 'login']);
 Route::get('/register', [RegisterController::class, 'register']);
 Route::get('/reservasi', [ReservasiController::class, 'reservasi']);
