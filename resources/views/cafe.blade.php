@@ -183,7 +183,13 @@
 
 <section class="container-fluid">
     <div class="col-lg-12 kategori-title">
+        <div class="col-lg-12">
         <h2 class="section-title">REVIEWS</h2>
+        </div>
+        <div class="col-lg-12" style="text-align: end;">
+    <a href="#" class="get-started-btn scrollto">see other reviews</a>
+
+        </div>
     </div>
 
     <div class="card">
