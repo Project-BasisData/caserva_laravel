@@ -30,28 +30,28 @@
 </section>
 
 <section class="contents" style="height: fit-content; background-color: #C6CCCC;">
-  <div>
-    <h2>
-      <img src="img/logo.png" alt="" class="caserva-img"></h2>
-    <h5>Merupakan sebuah platform berbasis web yang menyediakan informasi mengenai cafe yang ada di Malang.
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</h5>
-    <h5>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</h5>
-  </div>
+        <div>
+                <h2>
+          <img src="assets/img/logo.png" alt="" class="caserva-img"></h2>
+          <h5>Merupakan sebuah platform berbasis web yang menyediakan informasi dan reservasi cafe yang ada di Malang. 
+Memberikan kemudahan pada pelanggan cafe yang ingin memesan tempat tanpa perlu mendatangi cafe terlebih dahulu, dengan cara reservasi.</h5>
+            <h5>Dan menyajikan berbagai informasi mengenai cafe-cafe sekitar Malang Raya dengan info yang terupdate, dari detail lokasi hingga menu.</h5>
+        </div>
 
-  <div style="margin-top: 10%;">
-    <h2>WHY WE MADE THIS?</h2>
-    <h5>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</h5>
-    <h5>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</h5>
-  </div>
+        <div style="margin-top: 10%;">
+          <h2>WHY WE MADE THIS?</h2>
+          <h5>Caserva didirikan pada tahun 2021. Misi Caserva yaitu menjadi perantara antara pecinta kopi dan meja cafe, setiap hari di seluruh cafe yang berpartisipasi melalui situs web daring. </h5>
+          <h5>Caserva didukung oleh Universitas Muhammadiyah Malang dan hanya tersedia di Malang Raya saja. Pengguna dapat memilih untuk bersantap di mana saja, mulai dari cafe kelas atas hingga jejaring makanan yang populer, sementara pihak cafe mendapatkan pengunjung untuk kursi-kursi kosong selama jam-jam lengang.</h5>
+        </div>
 
-  <div style="margin-top: 10%;">
-    <h2>WHAT MAKES US DIFFERENT FROM OTHERS</h2>
-    <h5>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</h5>
-    <h5>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</h5>
-    <img src="img/balloon.svg" alt="" class="balloon">
-  </div>
+        <div style="margin-top: 10%;">
+          <h2>WHAT MAKES US DIFFERENT FROM OTHERS</h2>
+          <h5>Perbedaan dengan platform reservasi lain, yakni kami memberikan informasi-informasi tambahan pada setiap cafe di Malang. Dengan memberikan info yang diperlukan dapat membuat pelanggan lebih mantap untuk melakukan reservasi pada cafe tersebut.</h5>
+          <h5>Kemudian kami juga berfokus pada cafe-cafe yang berada di Malang saja, dengan begitu para pecinta kopi yang mungkin dari luar kota dapat mengetahui cafe mana saja yang direkomendasikan di kota Malang.</h5>
+          <img src="assets/img/balloon.svg" alt="" class="balloon">
+        </div>
 
-</section>
+      </section>
 
 <section style="height: fit-content; background-color: #C6CCCC; padding-bottom: 5%;">
   <div class="container bootdey">

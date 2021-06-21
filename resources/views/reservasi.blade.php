@@ -45,15 +45,15 @@
                     <div class="row">
                         <div class="col-lg-12 lokasi-title">
                             <h2>Makanan</h2>
-                            <a class="btn btn-primary mb-3 mr-1" href="#carouselExampleIndicators2" role="button" data-slide="prev">
+                            <a class="btn btn-primary mb-3 mr-1" href="#carouselExampleIndicators1" role="button" data-slide="prev">
                                 <i class="fa fa-arrow-left"></i>
                             </a>
-                            <a class="btn btn-primary mb-3" href="#carouselExampleIndicators2" role="button" data-slide="next">
+                            <a class="btn btn-primary mb-3" href="#carouselExampleIndicators1" role="button" data-slide="next">
                                 <i class="fa fa-arrow-right"></i>
                             </a>
                         </div>
                         <div class="col-12">
-                            <div id="carouselExampleIndicators2" class="carousel slide">
+                            <div id="carouselExampleIndicators1" class="carousel slide">
                                 <div class="carousel-inner">
                                     <div class="carousel-item active">
                                         <div class="row">
@@ -108,10 +108,10 @@
                                         <div class="row">
                                             <div class="col-md-4 mb-3">
                                                 <div class="card">
-                                                    <img class="img-cafe-fluid" alt="100%x280" src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=ee8417f0ea2a50d53a12665820b54e23" />
+                                                    <img class="img-cafe-fluid" alt="100%x280" src="img/French Fries.jpg" />
                                                     <div class="card-body">
                                                         <h4 class="card-title">
-                                                            Special title treatment
+                                                            French Fries
                                                         </h4>
                                                     </div>
                                                     <div class="jumlah">
@@ -125,10 +125,10 @@
                                             </div>
                                             <div class="col-md-4 mb-3">
                                                 <div class="card">
-                                                    <img class="img-cafe-fluid" alt="100%x280" src="https://images.unsplash.com/photo-1532777946373-b6783242f211?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=8ac55cf3a68785643998730839663129" />
+                                                    <img class="img-cafe-fluid" alt="100%x280" src="img/Spaghetti.jpg" />
                                                     <div class="card-body">
                                                         <h4 class="card-title">
-                                                            Special title treatment
+                                                            Spaghetti
                                                         </h4>
                                                     </div>
                                                     <div class="jumlah">
@@ -142,10 +142,10 @@
                                             </div>
                                             <div class="col-md-4 mb-3">
                                                 <div class="card">
-                                                    <img class="img-cafe-fluid" alt="100%x280" src="https://images.unsplash.com/photo-1532763303805-529d595877c5?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=5ee4fd5d19b40f93eadb21871757eda6" />
+                                                    <img class="img-cafe-fluid" alt="100%x280" src="img/Fried Chicken.jpg" />
                                                     <div class="card-body">
                                                         <h4 class="card-title">
-                                                            Special title treatment
+                                                            Fried Chicken
                                                         </h4>
                                                     </div>
                                                     <div class="jumlah">
@@ -186,9 +186,9 @@
                                         <div class="row">
                                             <div class="col-md-4 mb-3">
                                                 <div class="card">
-                                                    <img class="img-cafe-fluid" alt="100%x280" src="img/burger.jpg" />
+                                                    <img class="img-cafe-fluid" alt="100%x280" src="img/Hot Chocolate.jpg" />
                                                     <div class="card-body">
-                                                        <h4 class="card-title">Burger</h4>
+                                                        <h4 class="card-title">Hot Chocolate</h4>
                                                     </div>
                                                     <div class="jumlah">
                                                         <div class="kursi">
@@ -201,9 +201,9 @@
                                             </div>
                                             <div class="col-md-4 mb-3">
                                                 <div class="card">
-                                                    <img class="img-cafe-fluid" alt="100%x280" src="img/Rice Bowl.jpg" />
+                                                    <img class="img-cafe-fluid" alt="100%x280" src="img/Tea.jpg" />
                                                     <div class="card-body">
-                                                        <h4 class="card-title">Rice Bowl</h4>
+                                                        <h4 class="card-title">Tea</h4>
                                                     </div>
                                                     <div class="jumlah">
                                                         <div class="kursi">
@@ -216,9 +216,9 @@
                                             </div>
                                             <div class="col-md-4 mb-3">
                                                 <div class="card">
-                                                    <img class="img-cafe-fluid" alt="100%x280" src="img/Noodle.jpg" />
+                                                    <img class="img-cafe-fluid" alt="100%x280" src="img/Matcha.jpg" />
                                                     <div class="card-body">
-                                                        <h4 class="card-title">Noodle</h4>
+                                                        <h4 class="card-title">Matcha</h4>
                                                     </div>
                                                     <div class="jumlah">
                                                         <div class="kursi">
@@ -235,10 +235,10 @@
                                         <div class="row">
                                             <div class="col-md-4 mb-3">
                                                 <div class="card">
-                                                    <img class="img-cafe-fluid" alt="100%x280" src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=ee8417f0ea2a50d53a12665820b54e23" />
+                                                    <img class="img-cafe-fluid" alt="100%x280" src="img/Coffe.jpg" />
                                                     <div class="card-body">
                                                         <h4 class="card-title">
-                                                            Special title treatment
+                                                            Coffe
                                                         </h4>
                                                     </div>
                                                     <div class="jumlah">
@@ -252,10 +252,10 @@
                                             </div>
                                             <div class="col-md-4 mb-3">
                                                 <div class="card">
-                                                    <img class="img-cafe-fluid" alt="100%x280" src="https://images.unsplash.com/photo-1532777946373-b6783242f211?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=8ac55cf3a68785643998730839663129" />
+                                                    <img class="img-cafe-fluid" alt="100%x280" src="img/Es Jeruk.jpg" />
                                                     <div class="card-body">
                                                         <h4 class="card-title">
-                                                            Special title treatment
+                                                            Es Jeruk
                                                         </h4>
                                                     </div>
                                                     <div class="jumlah">
@@ -269,10 +269,10 @@
                                             </div>
                                             <div class="col-md-4 mb-3">
                                                 <div class="card">
-                                                    <img class="img-cafe-fluid" alt="100%x280" src="https://images.unsplash.com/photo-1532763303805-529d595877c5?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=5ee4fd5d19b40f93eadb21871757eda6" />
+                                                    <img class="img-cafe-fluid" alt="100%x280" src="img/Espresso.jpg" />
                                                     <div class="card-body">
                                                         <h4 class="card-title">
-                                                            Special title treatment
+                                                            Espresso
                                                         </h4>
                                                     </div>
                                                     <div class="jumlah">

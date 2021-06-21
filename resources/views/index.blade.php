@@ -147,137 +147,137 @@
 <section class="pt-5 pb-5">
   <div class="container">
     <div class="row">
-      <div class="col-6">
-        <h3 class="mb-3">CAFE TERFAVORIT </h3>
-      </div>
-      <div class="col-6 text-right">
-        <a class="btn btn-primary mb-3 mr-1" href="#carouselExampleIndicators2" role="button" data-slide="prev">
-          <i class="fa fa-arrow-left"></i>
-        </a>
-        <a class="btn btn-primary mb-3 " href="#carouselExampleIndicators2" role="button" data-slide="next">
-          <i class="fa fa-arrow-right"></i>
-        </a>
-      </div>
-      <div class="col-12">
-        <div id="carouselExampleIndicators2" class="carousel slide">
-
-          <div class="carousel-inner">
-            <div class="carousel-item active">
-              <div class="row">
-
-
-
-                <div class="col-md-4 mb-3">
-                  <div class="card">
-                    <img class="img-fluid" alt="100%x280" src="img/cafe.png">
-                    <div class="card-body">
-                      <h4 class="card-title">Bataputi Coffe House</h4>
-                      <p class="card-text">Berdiri sejak tahun 2015, Bataputi Coffe House terletak didalam kawasan tengah Perumahan Araya dengan latar bantaran Sungai Bango, serta menwarkan view dan venue outdoor yang unik.</p>
-
-                    </div>
-
-                  </div>
-                </div>
-                <div class="col-md-4 mb-3">
-                  <div class="card">
-                    <img class="img-fluid" alt="100%x280" src="img/cafe2.png">
-                    <div class="card-body">
-                      <h4 class="card-title">Special title treatment</h4>
-                      <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-
-                    </div>
-                  </div>
-                </div>
-                <div class="col-md-4 mb-3">
-                  <div class="card">
-                    <img class="img-fluid" alt="100%x280" src="img/cafe3.png">
-                    <div class="card-body">
-                      <h4 class="card-title">Special title treatment</h4>
-                      <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-
-                    </div>
-                  </div>
-                </div>
-
-              </div>
-            </div>
-            <div class="carousel-item">
-              <div class="row">
-
-                <div class="col-md-4 mb-3">
-                  <div class="card">
-                    <img class="img-fluid" alt="100%x280" src="https://images.unsplash.com/photo-1532771098148-525cefe10c23?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=3f317c1f7a16116dec454fbc267dd8e4">
-                    <div class="card-body">
-                      <h4 class="card-title">Special title treatment</h4>
-                      <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-
-                    </div>
-
-                  </div>
-                </div>
-                <div class="col-md-4 mb-3">
-                  <div class="card">
-                    <img class="img-fluid" alt="100%x280" src="https://images.unsplash.com/photo-1532715088550-62f09305f765?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=ebadb044b374504ef8e81bdec4d0e840">
-                    <div class="card-body">
-                      <h4 class="card-title">Special title treatment</h4>
-                      <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-
-                    </div>
-                  </div>
-                </div>
-                <div class="col-md-4 mb-3">
-                  <div class="card">
-                    <img class="img-fluid" alt="100%x280" src="https://images.unsplash.com/photo-1506197603052-3cc9c3a201bd?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=0754ab085804ae8a3b562548e6b4aa2e">
-                    <div class="card-body">
-                      <h4 class="card-title">Special title treatment</h4>
-                      <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-
-                    </div>
-                  </div>
-                </div>
-
-              </div>
-            </div>
-            <div class="carousel-item">
-              <div class="row">
-
-                <div class="col-md-4 mb-3">
-                  <div class="card">
-                    <img class="img-fluid" alt="100%x280" src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=ee8417f0ea2a50d53a12665820b54e23">
-                    <div class="card-body">
-                      <h4 class="card-title">Special title treatment</h4>
-                      <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-
-                    </div>
-
-                  </div>
-                </div>
-                <div class="col-md-4 mb-3">
-                  <div class="card">
-                    <img class="img-fluid" alt="100%x280" src="https://images.unsplash.com/photo-1532777946373-b6783242f211?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=8ac55cf3a68785643998730839663129">
-                    <div class="card-body">
-                      <h4 class="card-title">Special title treatment</h4>
-                      <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-
-                    </div>
-                  </div>
-                </div>
-                <div class="col-md-4 mb-3">
-                  <div class="card">
-                    <img class="img-fluid" alt="100%x280" src="https://images.unsplash.com/photo-1532763303805-529d595877c5?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=5ee4fd5d19b40f93eadb21871757eda6">
-                    <div class="card-body">
-                      <h4 class="card-title">Special title treatment</h4>
-                      <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
+        <div class="col-6">
+            <h3 class="mb-3">CAFE TERFAVORIT </h3>
         </div>
-      </div>
+        <div class="col-6 text-right">
+            <a class="btn btn-primary mb-3 mr-1" href="#carouselExampleIndicators2" role="button" data-slide="prev">
+                <i class="fa fa-arrow-left"></i>
+            </a>
+            <a class="btn btn-primary mb-3 " href="#carouselExampleIndicators2" role="button" data-slide="next">
+                <i class="fa fa-arrow-right"></i>
+            </a>
+        </div>
+        <div class="col-12">
+            <div id="carouselExampleIndicators2" class="carousel slide" >
+
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <div class="row">
+
+                            
+
+                            <div class="col-md-4 mb-3">
+                                <div class="card">
+                                    <img class="img-fluid" alt="100%x280" src="img/cafe.png">
+                                    <div class="card-body">
+                                        <h4 class="card-title">Bataputi Coffe House</h4>
+                                        <p class="card-text">Berdiri sejak tahun 2015, Bataputi Coffe House terletak didalam kawasan tengah Perumahan Araya dengan latar bantaran Sungai Bango, serta menwarkan view dan venue outdoor yang unik.</p>
+
+                                    </div>
+
+                                </div>
+                            </div>
+                            <div class="col-md-4 mb-3">
+                                <div class="card">
+                                    <img class="img-fluid" alt="100%x280" src="img/cafe2.png">
+                                    <div class="card-body">
+                                        <h4 class="card-title">Bukit Delight</h4>
+                                        <p class="card-text">Bukit Delight merupakan cafe yang berada di daerah perbukitan Kota Malang. Karena berada di kawasan perbukitan dan lebih tinggi daripada daerah pusat Kota Malang, Bukit Delight memberikan suasana yang menarik, dimana pengunjung dapat menatap langsung kearah Gunung Panderman dan Gunung Banyak.</p>
+
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4 mb-3">
+                                <div class="card">
+                                    <img class="img-fluid" alt="100%x280" src="img/cafe3.png">
+                                    <div class="card-body">
+                                        <h4 class="card-title">Golden Heritage Koffie</h4>
+                                        <p class="card-text">Setelah sebelumnya memiliki pabrik kopi sendiri, Golden Heritage mendirikan sebuah cafe sejak 2011 lalu. Cafe ini memiliki konsep interior yang didesain mirip pabrik kopi membuat kesan pengunjung minum kopi langsung dari pabriknya.</p>
+
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="row">
+
+                            <div class="col-md-4 mb-3">
+                                <div class="card">
+                                    <img class="img-fluid" alt="100%x280" src="img/Dialoogi Space & Coffee.jpg">
+                                    <div class="card-body">
+                                        <h4 class="card-title">Dialoogi Space & Coffee</h4>
+                                        <p class="card-text">Dialoogi Space & Coffe merupakan lokasi kuliner dan work space dengan aneka kopi dan snacks sebagai sajian utamanya. Beroperasional sejak Desember 2019, Dialoogi Space & Coffe memiliki konsep semi industrial dan modern.</p>
+
+                                    </div>
+
+                                </div>
+                            </div>
+                            <div class="col-md-4 mb-3">
+                                <div class="card">
+                                    <img class="img-fluid" alt="100%x280" src="img/Kotask Kaffe.jpg">
+                                    <div class="card-body">
+                                        <h4 class="card-title">Kotask Kaffe</h4>
+                                        <p class="card-text">Kotask Kaffe merupakan lokasi kuliner yang menyajikan menu western hingga asian sebagai sajian utamanya. Beroperasional sejak November 2020, Kotask Kaffe berkonsep minimalis dengan banyak akses warna putih di seluruh bangunannya.</p>
+
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4 mb-3">
+                                <div class="card">
+                                    <img class="img-fluid" alt="100%x280" src="img/Nakoa Cafe.jpg">
+                                    <div class="card-body">
+                                        <h4 class="card-title">Nakoa Cafe</h4>
+                                        <p class="card-text">Nakoa Cafe merupakan lokasi kuliner yang menyajikan aneka kopi dan minuman non kopi sebagai sajian utamanya. Berdiri sejak akhir tahun 2019, Nakoa Cafe adalah salah satu cafe yang buka selama 24 jam non stop.</p>
+
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="row">
+
+                            <div class="col-md-4 mb-3">
+                                <div class="card">
+                                    <img class="img-fluid" alt="100%x280" src="img/Kopi Moro Seneng.jpg">
+                                    <div class="card-body">
+                                        <h4 class="card-title">Kopi Moro Seneng</h4>
+                                        <p class="card-text">Kopi Moro Seneng merupakan lokasi kuliner yang menyajikan kopi dan sego sambel sebagai sajian utamanya. Kopi Moro Seneng berkonsep sebagai warung jadul bergaya perkampungan Jawa dengan bangunan Joglo, serta lumbung padi khas rumah tradisional Jawa.</p>
+
+                                    </div>
+
+                                </div>
+                            </div>
+                            <div class="col-md-4 mb-3">
+                                <div class="card">
+                                    <img class="img-fluid" alt="100%x280" src="img/Kopi Studio24.jpg">
+                                    <div class="card-body">
+                                        <h4 class="card-title">Kopi Studio24</h4>
+                                        <p class="card-text">Kopi Studio24 merupakan lokasi kuliner yang menyajikan berbagai minuman kopi dan non kopi yang dikemas dalam kemasan praktis sebagai sajian utamanya. Berada di lantai dua Studio Bakso, Kopi Studio24 hadir untuk memfasilitasi pengunjung yang tidak hanya ingin sekedar menikmati sajian bakso saja.</p>
+
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4 mb-3">
+                                <div class="card">
+                                    <img class="img-fluid" alt="100%x280" src="img/LAB Coffe & Eatery.jpg">
+                                    <div class="card-body">
+                                        <h4 class="card-title">LAB Coffee & Eatery</h4>
+                                        <p class="card-text">LAB Coffee & Eatery merupakan lokasi kuliner yang menyajikan berbagai varian minuman kopi dan menu Asia sebagai sajian utamanya. Beroperasional sejak 1 Januari 2021, LAB Coffee & Eatery berkonsep sebagai coffe shop yang mengusung tema industrial clean, terdiri dari 4 lantai.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
-  </div>
+</div>
 </section>
 
 @endsection
