@@ -26,7 +26,7 @@ class CreateReviewsTable extends Migration
                   ->onDelete('cascade')
                   ->onUpdate('cascade');
             $table->text('desc_review');
-            $table->decimal('rating', $precision = 8, $scale = 0);
+            $table->decimal('rating', $precision = 1, $scale = 1);
             $table->timestamps();
             $table->softDeletes();
         });

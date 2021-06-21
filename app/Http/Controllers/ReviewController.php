@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use App\Models\Review;
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Auth;
 
 class ReviewController extends Controller
 {
@@ -24,7 +25,8 @@ class ReviewController extends Controller
      */
     public function create()
     {
-        //
+        // route to add review page
+        return view('cafe.add_review');
     }
 
     /**
@@ -35,7 +37,15 @@ class ReviewController extends Controller
      */
     public function store(Request $request)
     {
-        //
+        $user_id = Auth::user()->id;
+        $request->validate([
+            'customer_id' => $request->get('id'),
+            'cafe_id' => $request->get('id'),
+            'desc_review' => 'required',
+            'rating' => 'required|digits_between:1,2|numeric'
+        ]);
+        Review::create($request->all());
+        return redirect()->route('cafe.index');
     }
 
     /**
@@ -57,7 +67,9 @@ class ReviewController extends Controller
      */
     public function edit(Review $review)
     {
-        //
+        // $review = Review::findOrFail($id);
+        $review = Review::findOrFail($review->id);
+        return view('reviews.edit', compact('review'));
     }
 
     /**
@@ -67,9 +79,17 @@ class ReviewController extends Controller
      * @param  \App\Models\Review  $review
      * @return \Illuminate\Http\Response
      */
-    public function update(Request $request, Review $review)
+    public function update(Request $request, $id)
     {
-        //
+        $request->validate([
+            'desc_review' => 'max:255',
+            'rating' => 'digits_between:1,2|numeric'
+        ]);
+        Review::findOrFail($id)->update([
+            'desc_review' => $request->desc_review,
+            'rating' => $request->rating,
+        ]);
+        return redirect()->route('reviews.index');
     }
 
     /**
@@ -78,8 +98,10 @@ class ReviewController extends Controller
      * @param  \App\Models\Review  $review
      * @return \Illuminate\Http\Response
      */
-    public function destroy(Review $review)
+    public function destroy($id)
     {
-        //
+        Review::findOrFail($id)->delete();
+        // Review::findOrFail($review)->delete();
+        return redirect()->back();    
     }
 }

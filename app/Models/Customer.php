@@ -10,10 +10,16 @@ class Customer extends Model
 {
     use HasFactory;
     use SoftDeletes;
-    protected $guarded = [];
+    protected $fillable = [
+        'name_cust',
+        'username_cust',
+        'is_online',
+        'email_cust',
+        'password_cust',
+    ];
 
     public function reviews()
     {
-        return $this->hasMany(Review::class);
+        return $this->hasMany(Review::class, 'customer_id');
     }
 }

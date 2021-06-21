@@ -17,10 +17,9 @@ class CreateCafesTable extends Migration
             $table->id();
             $table->foreignId('owner_id')
                   ->constrained()
-                //   ->references('id')
-                //   ->on('owners')
                   ->onDelete('cascade')
                   ->onUpdate('cascade');
+            $table->string('name_cafe', 255);
             $table->decimal('latitude', $precision = 8, $scale = 6);
             $table->decimal('longitude', $precision = 9, $scale = 6);
             $table->timestamps();
