@@ -257,6 +257,8 @@
     <label for="exampleFormControlTextarea1">Review</label>
     <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
   </div>
+    <a href="#" class="get-started-btn scrollto">submit</a>
+
 </form>
       </div>
     </div>
