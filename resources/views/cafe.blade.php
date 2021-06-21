@@ -228,8 +228,40 @@
 
         </div>
     </div>
-    <a href="#" class="get-started-btn scrollto">Tambah Reviews</a>
+    <!-- <a href="#" class="get-started-btn scrollto">Tambah Reviews</a> -->
 
+<div class="col-md-6 col-md-offset-3" style="max-width: 100%;">
+  <div id="accordion">
+    <div class="panel list-group">
+      <!-- panel class must be in -->
+      <a href="#web_dev" data-parent="#accordion" data-toggle="collapse" class="list-group-item" style="border: none;">
+        <h4 class="get-started-btn scrollto">Tambah Review</h4>
+      </a>
+      <div class="collapse" id="web_dev">
+        <form style="margin: 2% 20%;">
+  <div class="form-group">
+    <label for="exampleFormControlInput1">Nama</label>
+    <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="nama">
+  </div>
+  <div class="form-group">
+    <label for="exampleFormControlSelect1">RATING</label>
+    <select class="form-control" id="exampleFormControlSelect1">
+      <option>1</option>
+      <option>2</option>
+      <option>3</option>
+      <option>4</option>
+      <option>5</option>
+    </select>
+  </div>
+  <div class="form-group">
+    <label for="exampleFormControlTextarea1">Review</label>
+    <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+  </div>
+</form>
+      </div>
+    </div>
+  </div>
+</div>
 </section>
 
 <section class="pt-5 pb-5">
@@ -355,7 +387,8 @@
     </div>
 </section>
 
-
+<!-- JavaScript Bundle with Popper -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4" crossorigin="anonymous"></script>
 
 
 
