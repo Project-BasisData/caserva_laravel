@@ -186,10 +186,6 @@
         <div class="col-lg-12">
         <h2 class="section-title">REVIEWS</h2>
         </div>
-        <div class="col-lg-12" style="text-align: end;">
-    <a href="#" class="get-started-btn scrollto">see other reviews</a>
-
-        </div>
     </div>
 
     <div class="card">
@@ -256,12 +252,11 @@
 
         </div>
     </div>
-    <!-- <a href="#" class="get-started-btn scrollto">Tambah Reviews</a> -->
+    <a href="http://localhost:8000/review" class="get-started-btn scrollto">Tambah Reviews</a>
 
-<div class="col-md-6 col-md-offset-3" style="max-width: 100%;">
+<!-- <div class="col-md-6 col-md-offset-3" style="max-width: 100%;">
   <div id="accordion">
     <div class="panel list-group">
-      <!-- panel class must be in -->
       <a href="#web_dev" data-parent="#accordion" data-toggle="collapse" class="list-group-item" style="border: none;">
         <h4 class="get-started-btn scrollto">Tambah Review</h4>
       </a>
@@ -287,7 +282,7 @@
       </div>
     </div>
   </div>
-</div>
+</div> -->
 </section>
 
 <section class="pt-5 pb-5">

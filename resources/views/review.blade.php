@@ -30,6 +30,35 @@
         </div>
         <hr />
     </section>
+    <div class="col-md-6 col-md-offset-3" style="max-width: 100%;">
+        <div id="accordion">
+            <div class="panel list-group">
+                <a href="#web_dev" data-parent="#accordion" data-toggle="collapse" class="list-group-item" style="border: none;">
+                    <h4 class="get-started-btn scrollto">Tambah Review</h4>
+                </a>
+                <div class="collapse" id="web_dev">
+                    <form style="margin: 2% 20%;">
+                        <div class="form-group">
+                            <label for="exampleFormControlSelect1">RATING</label>
+                            <select class="form-control" id="exampleFormControlSelect1">
+                                <option>1</option>
+                                <option>2</option>
+                                <option>3</option>
+                                <option>4</option>
+                                <option>5</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="exampleFormControlTextarea1">Review</label>
+                            <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+                        </div>
+                        <a href="#" class="get-started-btn scrollto">submit</a>
+
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
 
     <div class="card">
         <div class="row no-gutters">
@@ -93,85 +122,85 @@
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.</p>
 
 
-            <div class="rating">
+                <div class="rating">
 
-                <div style="display: flex;">
-                    <h6 class="col-lg-12">Nama Reviewer</h6>
+                    <div style="display: flex;">
+                        <h6 class="col-lg-12">Nama Reviewer</h6>
+                    </div>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star"></span>
+                    4/5 reviews
                 </div>
-                <span class="fa fa-star checked"></span>
-                <span class="fa fa-star checked"></span>
-                <span class="fa fa-star checked"></span>
-                <span class="fa fa-star checked"></span>
-                <span class="fa fa-star"></span>
-                4/5 reviews
-            </div>
-            <p class="card-text">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.</p>
-            <p></p>
+                <p class="card-text">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.</p>
+                <p></p>
 
-            <div class="rating">
+                <div class="rating">
 
-                <div style="display: flex;">
-                    <h6 class="col-lg-12">Nama Reviewer</h6>
+                    <div style="display: flex;">
+                        <h6 class="col-lg-12">Nama Reviewer</h6>
+                    </div>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star"></span>
+                    4/5 reviews
                 </div>
-                <span class="fa fa-star checked"></span>
-                <span class="fa fa-star checked"></span>
-                <span class="fa fa-star checked"></span>
-                <span class="fa fa-star checked"></span>
-                <span class="fa fa-star"></span>
-                4/5 reviews
-            </div>
-            <p class="card-text">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.</p>
-            <p></p>
+                <p class="card-text">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.</p>
+                <p></p>
 
-            <div class="rating">
+                <div class="rating">
 
-                <div style="display: flex;">
-                    <h6 class="col-lg-12">Nama Reviewer</h6>
+                    <div style="display: flex;">
+                        <h6 class="col-lg-12">Nama Reviewer</h6>
+                    </div>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star"></span>
+                    4/5 reviews
                 </div>
-                <span class="fa fa-star checked"></span>
-                <span class="fa fa-star checked"></span>
-                <span class="fa fa-star checked"></span>
-                <span class="fa fa-star checked"></span>
-                <span class="fa fa-star"></span>
-                4/5 reviews
-            </div>
-            <p class="card-text">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.</p>
-            <p></p>
+                <p class="card-text">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.</p>
+                <p></p>
 
-            <div class="rating">
+                <div class="rating">
 
-                <div style="display: flex;">
-                    <h6 class="col-lg-12">Nama Reviewer</h6>
+                    <div style="display: flex;">
+                        <h6 class="col-lg-12">Nama Reviewer</h6>
+                    </div>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star"></span>
+                    4/5 reviews
                 </div>
-                <span class="fa fa-star checked"></span>
-                <span class="fa fa-star checked"></span>
-                <span class="fa fa-star checked"></span>
-                <span class="fa fa-star checked"></span>
-                <span class="fa fa-star"></span>
-                4/5 reviews
-            </div>
-            <p class="card-text">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.</p>
-            <p></p>
+                <p class="card-text">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.</p>
+                <p></p>
 
-            <div class="rating">
+                <div class="rating">
 
-                <div style="display: flex;">
-                    <h6 class="col-lg-12">Nama Reviewer</h6>
+                    <div style="display: flex;">
+                        <h6 class="col-lg-12">Nama Reviewer</h6>
+                    </div>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star"></span>
+                    4/5 reviews
                 </div>
-                <span class="fa fa-star checked"></span>
-                <span class="fa fa-star checked"></span>
-                <span class="fa fa-star checked"></span>
-                <span class="fa fa-star checked"></span>
-                <span class="fa fa-star"></span>
-                4/5 reviews
-            </div>
-            <p class="card-text">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.</p>
-            <p></p>
+                <p class="card-text">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.</p>
+                <p></p>
 
             </div>
         </div>
