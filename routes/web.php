@@ -5,7 +5,6 @@ use App\Http\Controllers\IndexController;
 use App\Http\Controllers\CafeController;
 use App\Http\Controllers\LoginController;
 use App\Http\Controllers\RegisterController;
-use App\Http\Controllers\ReservasiController;
 use App\Http\Controllers\ReviewController;
 
 /*
