@@ -1,0 +1,651 @@
+body {
+  font-family: "Mulish", sans-serif;
+  text-align: center;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Mulish", sans-serif;
+}
+
+p {
+  color: #8f8f8f;
+}
+
+button:focus {
+  outline: none;
+}
+
+.navbar-toggler-icon {
+  color: #004d40;
+}
+
+/* Headings */
+
+.big-heading {
+  font-family: "Mulish", sans-serif;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  font-weight: bold;
+  color: black;
+}
+
+.big-heading-desc {
+  margin: 0% 5%;
+  width: fit-content;
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
+.heading {
+  margin-top: 5%;
+}
+
+.section-heading {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+/* Containers */
+
+.container-fluid {
+  padding: 1% 7% 7%;
+}
+
+/* Navigation Bar */
+
+.navbar {
+  padding: 5px 100px;
+  background-color: white;
+}
+.navbar-brand {
+  text-align: left;
+}
+.navbar-brand img {
+  width: 40% !important;
+  margin-left: 10px;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.login-item {
+  padding: 0;
+  margin-top: 5px;
+}
+
+.menu {
+  margin-left: 8%;
+}
+
+.nav-link {
+  font-size: 1rem;
+  font-weight: bold;
+  font-family: "Mulish", sans-serif;
+  color: #373f41;
+}
+
+/* Buttons */
+
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+.get-started-btn {
+  color: black;
+  border-radius: 50px;
+  padding: 6px 25px 7px 25px;
+  white-space: nowrap;
+  transition: 0.3s;
+  font-size: 1rem;
+  display: inline-block;
+  border: 2px solid #424928;
+  font-weight: bold;
+  /* margin-top: 5px; */
+}
+
+.get-started-btn:hover {
+  background: #424928;
+  color: #fff;
+}
+
+.back-btn {
+  color: black;
+  border-radius: 50px;
+  padding: 6px 25px 7px 25px;
+  white-space: nowrap;
+  transition: 0.3s;
+  font-size: 1rem;
+  border: 2px solid grey;
+  font-weight: bold;
+  position: absolute;
+  top: 20%;
+  left: 10%;
+  /* margin-top: 5px; */
+}
+
+.back-btn:hover {
+  background: grey;
+  color: #fff;
+}
+
+/* Title Section */
+
+#title {
+  text-align: center;
+  padding: 10%;
+  height: 40rem;
+  margin-top: 84px;
+}
+
+/* Searching */
+
+.search {
+  display: flex;
+}
+
+.girl-img {
+  width: 100%;
+  margin: 20% 0%;
+  z-index: 1;
+}
+
+.plant-img {
+  width: 90%;
+  margin: 20% 0%;
+  z-index: 1;
+}
+
+.search-input {
+  width: 50%;
+  border-radius: 2.5rem;
+  outline: none;
+  text-align: center;
+  z-index: 2;
+}
+
+.searching-section {
+  width: 60px;
+  margin: 15% 0%;
+  margin-top: 14%;
+  z-index: 2;
+}
+
+.search-title {
+  font-weight: bold;
+  font-size: 2rem;
+  text-align: center;
+}
+
+.card {
+  max-width: 100%;
+  margin: 10% 10%;
+  text-align: left;
+  border: none;
+}
+
+.card-img {
+  width: 50%;
+  border-radius: 50%;
+}
+
+.card-img-top {
+  width: 88% !important;
+}
+
+.kategori2-img {
+  display: none;
+}
+
+.kategori-title {
+  margin: 0 0 10% 0;
+}
+
+.card-group {
+  margin: 0% 10%;
+}
+
+.card-group2 {
+  margin: 0% 26%;
+}
+
+.card-title {
+  text-align: center;
+  font-size: 1.1rem;
+  font-weight: bold;
+}
+
+.section-title {
+  font-weight: bold;
+  font-size: 2rem;
+}
+
+/* Contact */
+
+.container-contact-fluid {
+  padding: 1%;
+  margin-bottom: 5%;
+}
+
+.contact-title {
+  font-weight: bold;
+  font-size: 2rem;
+  text-align: center;
+}
+
+.contact-input {
+  width: 80%;
+  height: 50px;
+  border-radius: 2.5rem;
+  outline: none;
+  text-align: center;
+  z-index: 2;
+}
+
+.pesan-input {
+  width: 80%;
+  height: 200px;
+  border-radius: 2.5rem;
+  outline: none;
+  text-align: center;
+  z-index: 2;
+}
+
+/* About page */
+
+.about-head {
+  padding: 0 !important;
+}
+
+.line-img {
+  width: 30%;
+  position: absolute;
+  left: 10%;
+  top: 10rem;
+  z-index: 0;
+}
+
+.what-line {
+  position: absolute;
+  top: 11rem;
+  left: 25%;
+  width: 50%;
+}
+
+.caserva-about-img {
+  width: 80% !important;
+  z-index: 2;
+}
+
+.caserva-img {
+  width: 25% !important;
+  z-index: 2;
+}
+
+.ask {
+  position: absolute;
+  left: 90%;
+  width: 30%;
+  top: -15%;
+  z-index: 0;
+}
+
+.pattern {
+  margin-top: 0!important;
+  position: relative;
+  background-image: linear-gradient(315deg, white 0%, white 74%);
+  height: 50rem!important;
+}
+
+.pattern:before {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 250px;
+  background: url(img/wave.svg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  z-index: 1;
+}
+
+.wave {
+  position: absolute;
+  z-index: -1;
+  top: 80%;
+}
+
+.wave-img {
+  width: 100%;
+  height: 50%;
+}
+
+.contents {
+  position: relative;
+  top: 100%;
+  width: 100%;
+  text-align: left;
+  padding: 0 10%;
+  padding-right:25%;
+  padding-bottom: 10%;
+}
+
+.balloon{
+    position: absolute;
+    top: 55%;
+    left: 80%;
+    z-index: 0;
+    width: 15%;
+}
+
+/* teams di about page */
+
+.team-list img {
+  width: 50%;
+}
+
+.team-list .content {
+  width: 50%;
+}
+
+.team-list .content .follow {
+  position: absolute;
+  bottom: 24px;
+}
+
+.team-list:hover {
+  -webkit-transform: scale(1.05);
+          transform: scale(1.05);
+}
+
+.team, .team-list {
+  -webkit-transition: all 0.5s cubic-bezier(0.68, -0.55, 0.27, 1.55) 0s;
+  transition: all 0.5s cubic-bezier(0.68, -0.55, 0.27, 1.55) 0s;
+}
+
+.team .content .title, .team-list .content .title {
+  font-size: 18px;
+}
+
+
+.team .member-position, .team .team-social {
+  position: absolute;
+  bottom: -35px;
+  right: 0;
+  left: 0;
+  margin: auto 10%;
+  z-index: 99;
+}
+
+
+.team:hover {
+  -webkit-transform: translateY(-7px);
+          transform: translateY(-7px);
+  -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
+          box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
+}
+
+.team:hover .overlay {
+  opacity: 0.6;
+}
+
+.team:hover .team-social {
+  opacity: 1;
+}
+
+.rounded {
+    border-radius: 5px !important;
+}
+
+.para-desc {
+    max-width: 600px;
+}
+.text-muted {
+    color: #8492a6 !important;
+}
+
+.section-title .title {
+    letter-spacing: 0.5px;
+    font-size: 30px;
+}
+
+.avatar{
+  width: 70%;
+  border-radius: 50%;
+}
+
+/* reservasi page */
+
+.reservasi-title{
+  position: absolute;
+  top: 20%;
+  left: 44.5%;
+  font-size: 2rem;
+}
+
+.reservasi-content{
+  margin-top: 10%;
+}
+
+.reservasi-content h2, img{
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+.reservasi-content img{
+  border-radius: 5%;
+  /* width: 27%; */
+}
+
+.cafe-img{
+  width: 27%;
+}
+
+.rating{
+  padding: 2%;
+}
+
+.checked{
+  color: #B99C7E;
+}
+
+hr{
+  width: 50%;
+  border: 1px solid #000000;;
+}
+
+.kursi{
+  display: inline-flex;
+}
+
+.jumlah{
+  
+    margin: 50px 0px;
+}
+
+/* footer  */
+
+footer {
+  background-color: #b99c7e;
+  padding: 5%;
+}
+
+footer a {
+  color: white;
+}
+
+footer a:hover {
+  text-decoration: none;
+  color: #464665;
+}
+
+
+
+/* VERSI MOBILE */
+
+@media (max-width: 768px) {
+  .team-list img,
+  .team-list .content {
+    width: 100%;
+    float: none !important;
+  }
+  .team-list img .follow,
+  .team-list .content .follow {
+    position: relative;
+    bottom: 0;
+  }
+
+}
+
+@media (max-width: 1028px) {
+  #title {
+    text-align: center;
+  }
+
+  .navbar-brand {
+    text-align: center;
+    width: 100%;
+  }
+
+  .navbar-toggler {
+    text-align: center;
+    width: 100%;
+  }
+
+  .menu {
+    margin-left: 0;
+  }
+
+  .heading {
+    margin-top: 20%;
+  }
+
+  /* menu */
+
+  .girl-img {
+    display: none;
+  }
+
+  .plant-img {
+    display: none;
+  }
+
+  .side {
+    width: 0;
+  }
+
+  .search-input {
+    width: 50%;
+    border-radius: 2.5rem;
+    outline: none;
+    text-align: center;
+    z-index: 2;
+  }
+
+  .searching-section {
+    width: 100%;
+    margin-top: 14%;
+    z-index: 2;
+    text-align: center;
+  }
+
+  .search-title {
+    font-weight: bold;
+    font-size: 2rem;
+    text-align: center;
+  }
+
+  .card-img {
+    width: 100%;
+  }
+
+  .card-img-top {
+    width: 100% !important;
+  }
+
+  .kategori2-img {
+    display: contents;
+  }
+
+  .kategori2-img2 {
+    display: none;
+  }
+
+  .card-group2 {
+    margin: 0% 10%;
+  }
+
+  /* about page */
+  .caserva-img {
+    width: 40% !important;
+    z-index: 2;
+  }
+
+  .wave {
+    top: 50%;
+  }
+
+  .contents {
+    width: 100%;
+    top: 60%;
+  }
+  .pattern{
+    height: 40rem!important;
+  }
+
+  .reservasi{
+    padding: 10%!important;
+    margin-top: 84px!important;
+  }
+
+.reservasi-title{
+  position: absolute;
+  top: 30%;
+  left: 10%;
+}
+
+.reservasi-content{
+  margin-top: 30%;
+}
+
+.reservasi-content h2, img{
+  text-align: left;
+  font-size: 1.5rem;
+}
+.reservasi-content img{
+  width: 100%;
+}
+
+
+}
+
+/* login */
+
+.login-input {
+  width: 80%;
+  height: 50px;
+  border-radius: 2.5rem;
+  outline: none;
+  text-align: center;
+  z-index: 2;
+  background: #FFFFFF;
+  border: 0.498141px solid #000000;
+  box-sizing: border-box;
+  box-shadow: 0px 1.99257px 1.99257px rgba(0, 0, 0, 0.25);
+  border-radius: 12.4535px;
+}
+.masuk {
+  font-weight: 800;
+}
+
+/* cafe */
+.img-cafe-fluid {
+  Width: 255px;
+  Height: 260px;
+}

@@ -14,7 +14,7 @@ class CafeController extends Controller
      */
     public function index()
     {
-        //
+        return view('cafe');
     }
 
     /**
